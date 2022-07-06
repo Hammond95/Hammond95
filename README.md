@@ -7,7 +7,7 @@
   <table>
     <tr>
       <td>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hammond95&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hammond95&show_icons=true&theme=radical&include_all_commits=true" />
       </td>
       <td>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hammond95&theme=radical&layout=compact&hide=HTML,CSS&langs_count=10" />
